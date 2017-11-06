@@ -1,0 +1,102 @@
+test1 Soliton k = 4, p = 0.25
+num_node = 100  idle_time = 6
+SOlitonAveLen 24
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 19
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 27
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 29
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 28
+test2 Soliton k = 4,  p = 0.5
+num_node = 100  idle_time = 6
+SOlitonAveLen 36
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 17
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 30
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 27
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 27
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 29
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 26
+test3 Soliton k = 6,  p = 0.25
+num_node = 100  idle_time = 6
+SOlitonAveLen 35
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 18
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 24
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 24
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 27
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 25
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 27
+test4 Soliton k = 6,  p = 0.5
+num_node = 100  idle_time = 6
+SOlitonAveLen 25
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 26
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 31
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 30
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 29
+test5 Soliton k = 8,  p = 0.25
+num_node = 100  idle_time = 6
+SOlitonAveLen 21
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 42
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 30
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 27
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 30
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 28
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 27
+test6 Soliton k = 8,  p = 0.5
+num_node = 100  idle_time = 6
+SOlitonAveLen 16
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 34
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 31
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 28
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 29
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 28
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 28

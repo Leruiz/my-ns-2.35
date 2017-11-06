@@ -1,0 +1,33 @@
+test5 cosntruction k = 6, r = 0.15, p = 0.5
+num_node = 100  idle_time = 6
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+99.0000	0.0000	5.4774	99.0000	0.3036	89.0000	0.2730	
+
+num_node = 50  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+106.0000	0.0000	5.4970	106.0000	0.3240	98.0000	0.2995	
+
+num_node = 100  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+196.0000	1.0000	5.4968	195.0000	0.5960	165.0000	0.5043	
+
+num_node = 150  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+272.0000	1.0000	5.4585	271.0000	0.8341	192.0000	0.5909	
+
+num_node = 200  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+329.0000	0.0000	5.4805	329.0000	1.0085	201.0000	0.6161	
+
+num_node = 300  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+442.0000	0.0000	5.4987	442.0000	1.3504	232.0000	0.7088	
+
+num_node = 200  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+402.0000	2.0000	5.4323	400.0000	1.2370	214.0000	0.6618	
+
+num_node = 300  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+495.0000	0.0000	5.4600	495.0000	1.5231	217.0000	0.6677	
+

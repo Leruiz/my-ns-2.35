@@ -1,0 +1,39 @@
+test11 k = 6, r = 0.5, p = 0.5
+
+num_node = 100  idle_time = 6
+Practical sent bits 19236
+sent_pkts =  94.0000	sum1 =  2.0000	finish time =  5.4202	sent_pkts =  92.0000	offered traffic load =  0.2852		success_pkts =  85.0000	throughput=  0.2635		
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 21672
+sent_pkts =  106.0000	sum1 =  0.0000	finish time =  5.4970	sent_pkts =  106.0000	offered traffic load =  0.3240		success_pkts =  98.0000	throughput=  0.2995	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 69468
+sent_pkts =  169.0000	sum1 =  0.0000	finish time =  5.4739	sent_pkts =  169.0000	offered traffic load =  0.5187		success_pkts =  125.0000	throughput=  0.3836		
+
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 132468
+sent_pkts =  214.0000	sum1 =  0.0000	finish time =  5.4589	sent_pkts =  214.0000	offered traffic load =  0.6586		success_pkts =  105.0000	throughput=  0.3231		
+
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 180684
+sent_pkts =  246.0000	sum1 =  0.0000	finish time =  5.4447	sent_pkts =  246.0000	offered traffic load =  0.7591		success_pkts =  89.0000	throughput=  0.2746		
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 294840
+sent_pkts =  307.0000	sum1 =  3.0000	finish time =  5.4128	sent_pkts =  304.0000	offered traffic load =  0.9435		success_pkts =  42.0000	throughput=  0.1304		
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 236796
+sent_pkts =  245.0000	sum1 =  2.0000	finish time =  5.1660	sent_pkts =  243.0000	offered traffic load =  0.7902		success_pkts =  48.0000	throughput=  0.1561		
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 361284
+sent_pkts =  318.0000	sum1 =  1.0000	finish time =  5.2890	sent_pkts =  317.0000	offered traffic load =  1.0069		success_pkts =  24.0000	throughput=  0.0762		
+	
+
+
+

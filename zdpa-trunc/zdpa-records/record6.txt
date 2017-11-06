@@ -1,0 +1,73 @@
+test6 cosntruction k = 6, r = 1, p = 1
+num_node = 100  idle_time = 6
+Practical sent bits 21504
+pkt class 1 = 6085
+pkt class 2 = 7585
+SB class 1 = 2106928
+SB class 2 = 13000
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+95.0000	1.0000	5.4202	94.0000	0.2914	85.0000	0.2635	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 26544
+pkt class 1 = 2895
+pkt class 2 = 4195
+SB class 1 = 1237828
+SB class 2 = 7398
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+110.0000	0.0000	5.4982	110.0000	0.3361	95.0000	0.2903	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 103656
+pkt class 1 = 6752
+pkt class 2 = 14273
+SB class 1 = 4880771
+SB class 2 = 28862
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+161.0000	0.0000	5.4827	161.0000	0.4933	88.0000	0.2696	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 175896
+pkt class 1 = 4590
+pkt class 2 = 18688
+SB class 1 = 4388591
+SB class 2 = 28794
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+175.0000	2.0000	5.3833	173.0000	0.5399	46.0000	0.1436	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 242256
+pkt class 1 = 2269
+pkt class 2 = 18294
+SB class 1 = 3274253
+SB class 2 = 20764
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+208.0000	2.0000	5.3034	206.0000	0.6526	36.0000	0.1140	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 387072
+pkt class 1 = 312
+pkt class 2 = 5337
+SB class 1 = 1456541
+SB class 2 = 9750
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+280.0000	147.0000	1.3299	133.0000	1.6801	12.0000	0.1516	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 304752
+pkt class 1 = 105
+pkt class 2 = 4571
+SB class 1 = 1168936
+SB class 2 = 7557
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+212.0000	12.0000	4.0004	200.0000	0.8399	14.0000	0.0588	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 468216
+pkt class 1 = 6
+pkt class 2 = 2106
+SB class 1 = 493870
+SB class 2 = 4200
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+303.0000	182.0000	0.7252	121.0000	2.8031	6.0000	0.1390	
+

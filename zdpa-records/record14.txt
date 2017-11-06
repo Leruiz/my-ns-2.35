@@ -1,0 +1,33 @@
+test14 k = 8, r = 0.5, p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 19656
+96.0000	0.0000	5.4972	96.0000	0.2934	89.0000	0.2720	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 23352
+100.0000	1.0000	5.4867	99.0000	0.3031	90.0000	0.2756	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 95424
+179.0000	0.0000	5.4930	179.0000	0.5475	115.0000	0.3517	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 162372
+201.0000	1.0000	5.4728	200.0000	0.6139	79.0000	0.2425	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 236040
+221.0000	1.0000	5.4102	220.0000	0.6832	52.0000	0.1615	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 374472
+291.0000	8.0000	4.8744	283.0000	0.9754	28.0000	0.0965	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 302232
+229.0000	2.0000	5.1044	227.0000	0.7471	33.0000	0.1086	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 458052
+307.0000	3.0000	5.0442	304.0000	1.0125	11.0000	0.0366	
+

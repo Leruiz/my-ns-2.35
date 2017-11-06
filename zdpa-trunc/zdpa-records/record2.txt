@@ -1,0 +1,153 @@
+test2 cosntruction k = 6, r = 0.5, p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 19068
+pkt class 1 = 6699
+pkt class 2 = 6393
+SB class 1 = 1038448
+SB class 2 = 1033092
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	2.0000	5.4202	92.0000	0.2852	85.0000	0.2635	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 21672
+pkt class 1 = 3551
+pkt class 2 = 3498
+SB class 1 = 581277
+SB class 2 = 583432
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+106.0000	0.0000	5.4970	106.0000	0.3240	98.0000	0.2995	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 65184
+pkt class 1 = 8420
+pkt class 2 = 9114
+SB class 1 = 2466429
+SB class 2 = 2447737
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+177.0000	0.0000	5.4972	177.0000	0.5409	138.0000	0.4217	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 122808
+pkt class 1 = 5817
+pkt class 2 = 5224
+SB class 1 = 2207867
+SB class 2 = 2022700
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+228.0000	0.0000	5.4908	228.0000	0.6976	121.0000	0.3702	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 174972
+pkt class 1 = 4672
+pkt class 2 = 5868
+SB class 1 = 1632259
+SB class 2 = 1583393
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+243.0000	1.0000	5.4682	242.0000	0.7435	77.0000	0.2366	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 282744
+pkt class 1 = 2137
+pkt class 2 = 938
+SB class 1 = 813895
+SB class 2 = 700964
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+301.0000	3.0000	5.0735	298.0000	0.9868	36.0000	0.1192	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 225456
+pkt class 1 = 988
+pkt class 2 = 724
+SB class 1 = 607278
+SB class 2 = 715177
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+250.0000	0.0000	5.4994	250.0000	0.7637	56.0000	0.1711	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 343896
+pkt class 1 = 1103
+pkt class 2 = 647
+SB class 1 = 358486
+SB class 2 = 210014
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+318.0000	0.0000	5.4100	318.0000	0.9875	23.0000	0.0714	
+
+Practical sent bits 17468
+pkt class 1 = 7000
+pkt class 2 = 5391
+SB class 1 = 295550
+SB class 2 = 1617625
+Practical sent bits 20610
+pkt class 1 = 3851
+pkt class 2 = 3198
+SB class 1 = 173188
+SB class 2 = 990772
+Practical sent bits 50487
+pkt class 1 = 12970
+pkt class 2 = 6418
+SB class 1 = 696605
+SB class 2 = 3834117
+Practical sent bits 94055
+pkt class 1 = 13490
+pkt class 2 = 5037
+SB class 1 = 729876
+SB class 2 = 4039953
+Practical sent bits 128745
+pkt class 1 = 11649
+pkt class 2 = 3827
+SB class 1 = 545932
+SB class 2 = 3000926
+Practical sent bits 205709
+pkt class 1 = 3985
+pkt class 2 = 536
+SB class 1 = 259891
+SB class 2 = 1312604
+Practical sent bits 182700
+pkt class 1 = 1624
+pkt class 2 = 223
+SB class 1 = 175955
+SB class 2 = 977237
+Practical sent bits 269669
+pkt class 1 = 2319
+pkt class 2 = 218
+SB class 1 = 105146
+SB class 2 = 388077
+Practical sent bits 17350
+pkt class 1 = 6904
+pkt class 2 = 5296
+SB class 1 = 298152
+SB class 2 = 1632597
+Practical sent bits 20610
+pkt class 1 = 3849
+pkt class 2 = 3197
+SB class 1 = 175738
+SB class 2 = 1005644
+Practical sent bits 50487
+pkt class 1 = 12772
+pkt class 2 = 6418
+SB class 1 = 703048
+SB class 2 = 3891583
+Practical sent bits 94373
+pkt class 1 = 13458
+pkt class 2 = 5044
+SB class 1 = 704783
+SB class 2 = 3988924
+Practical sent bits 125935
+pkt class 1 = 10244
+pkt class 2 = 3825
+SB class 1 = 501142
+SB class 2 = 2946696
+Practical sent bits 205709
+pkt class 1 = 3985
+pkt class 2 = 536
+SB class 1 = 259891
+SB class 2 = 1312604
+Practical sent bits 182700
+pkt class 1 = 1624
+pkt class 2 = 223
+SB class 1 = 175955
+SB class 2 = 977237
+Practical sent bits 269669
+pkt class 1 = 2319
+pkt class 2 = 218
+SB class 1 = 105146
+SB class 2 = 388077

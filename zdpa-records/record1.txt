@@ -1,0 +1,28 @@
+test 1, pkt lenght = 168 bits num_nodes = 300 poisson rate_ = 100Mb
+k = 4, r = 1, p = 0.75
+
+finish time =  9.9832	sent_pkts =  263.0000	offered traffic load =  0.4909		success_pkts =  159.0000	throughput=  0.2968		
+k = 6, r = 1, p = 0.75
+
+finish time =  9.9873	sent_pkts =  238.0000	offered traffic load =  0.4443		success_pkts =  91.0000	throughput=  0.1699		
+k = 8, r = 1, p = 0.75
+
+finish time =  9.9481	sent_pkts =  223.0000	offered traffic load =  0.4163		success_pkts =  61.0000	throughput=  0.1139		
+k = 6, r = 0.25, p = 0.75
+
+finish time =  9.9481	sent_pkts =  254.0000	offered traffic load =  0.4741		success_pkts =  154.0000	throughput=  0.2875		
+k = 6, r = 0.5, p = 0.75
+
+finish time =  9.9790	sent_pkts =  250.0000	offered traffic load =  0.4667		success_pkts =  132.0000	throughput=  0.2464		
+k = 6, r = 0.75, p = 0.75
+
+finish time =  9.9781	sent_pkts =  251.0000	offered traffic load =  0.4685		success_pkts =  116.0000	throughput=  0.2165		
+k = 6, r = 0.5, p = 0
+
+finish time =  9.9862	sent_pkts =  290.0000	offered traffic load =  0.5413		success_pkts =  257.0000	throughput=  0.4797		
+k = 6, r = 0.5, p = 0.25
+
+finish time =  9.9742	sent_pkts =  290.0000	offered traffic load =  0.5413		success_pkts =  259.0000	throughput=  0.4835		
+k = 6, r = 0.5, p = 0.5
+
+finish time =  9.9943	sent_pkts =  278.0000	offered traffic load =  0.5189		success_pkts =  196.0000	throughput=  0.3659		

@@ -1,0 +1,57 @@
+test1 Soliton k = 4, r = 0.5, p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 18816
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	0.0000	5.4586	94.0000	0.2893	84.0000	0.2585	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 22792
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+114.0000	4.0000	5.3908	110.0000	0.3428	102.0000	0.3179	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 51168
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+191.0000	0.0000	5.4761	191.0000	0.5860	140.0000	0.4295	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 77784
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+244.0000	1.0000	5.4985	243.0000	0.7425	158.0000	0.4827	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 108752
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+308.0000	1.0000	5.4970	307.0000	0.9383	166.0000	0.5073	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 167368
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+394.0000	1.0000	5.4752	393.0000	1.2059	155.0000	0.4756	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 144016
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+342.0000	2.0000	5.4442	340.0000	1.0492	160.0000	0.4937	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 209392
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+423.0000	0.0000	5.4333	423.0000	1.3079	144.0000	0.4453	
+
+Practical sent bits 22664
+Practical sent bits 23872
+Practical sent bits 62352
+Practical sent bits 109640
+Practical sent bits 144072
+Practical sent bits 239800
+Practical sent bits 190232
+Practical sent bits 292144
+Practical sent bits 19304
+Practical sent bits 23832
+Practical sent bits 69472
+Practical sent bits 125456
+Practical sent bits 171208
+Practical sent bits 280720
+Practical sent bits 241928
+Practical sent bits 349424

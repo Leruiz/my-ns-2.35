@@ -1,0 +1,171 @@
+Non-RALR
+num_node = 100  idle_time = 6
+Practical sent bits 19656
+ZDPA RetranstimesSum 666
+PracSentPkt 117
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+89.0000	1.0000	5.4202	88.0000	0.2728	78.0000	0.2418	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 27720
+ZDPA RetranstimesSum 596
+PracSentPkt 165
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+110.0000	1.0000	5.4664	109.0000	0.3350	90.0000	0.2766	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 68040
+ZDPA RetranstimesSum 604
+PracSentPkt 405
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+169.0000	0.0000	5.4941	169.0000	0.5168	108.0000	0.3302	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 118608
+ZDPA RetranstimesSum 310
+PracSentPkt 706
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+195.0000	1.0000	5.4357	194.0000	0.5996	77.0000	0.2380	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 160776
+ZDPA RetranstimesSum 245
+PracSentPkt 957
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+222.0000	0.0000	5.4634	222.0000	0.6827	55.0000	0.1691	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 256368
+ZDPA RetranstimesSum 123
+PracSentPkt 1526
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+288.0000	11.0000	4.5361	277.0000	1.0259	21.0000	0.0778	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 207984
+ZDPA RetranstimesSum 253
+PracSentPkt 1238
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+245.0000	0.0000	5.3073	245.0000	0.7755	44.0000	0.1393	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 315168
+ZDPA RetranstimesSum 46
+PracSentPkt 1876
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+312.0000	19.0000	3.8265	293.0000	1.2864	15.0000	0.0659	
+
+Regular RALR k = 4, p = 0.5, r = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 18900
+ZDPA RetranstimesSum 618
+PracSentPkt 120
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	0.0000	5.4963	94.0000	0.2873	81.0000	0.2476	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 22764
+ZDPA RetranstimesSum 628
+PracSentPkt 151
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+109.0000	0.0000	5.4945	109.0000	0.3333	96.0000	0.2935	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 57456
+ZDPA RetranstimesSum 674
+PracSentPkt 409
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+191.0000	0.0000	5.4983	191.0000	0.5836	131.0000	0.4003	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 91644
+ZDPA RetranstimesSum 583
+PracSentPkt 675
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+227.0000	0.0000	5.4948	227.0000	0.6940	123.0000	0.3761	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 124068
+ZDPA RetranstimesSum 593
+PracSentPkt 931
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+269.0000	0.0000	5.4774	269.0000	0.8251	115.0000	0.3527	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 195552
+ZDPA RetranstimesSum 338
+PracSentPkt 1526
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+315.0000	2.0000	5.3641	313.0000	0.9803	56.0000	0.1754	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 158844
+ZDPA RetranstimesSum 653
+PracSentPkt 1226
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+283.0000	0.0000	5.4897	283.0000	0.8661	89.0000	0.2724	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 237552
+ZDPA RetranstimesSum 237
+PracSentPkt 1880
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+339.0000	0.0000	5.4089	339.0000	1.0529	44.0000	0.1367	
+
+Random RALR k=4, p=0.5
+num_node = 100  idle_time = 6
+Practical sent bits 18816
+ZDPA RetranstimesSum 588
+PracSentPkt 122
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	0.0000	5.4586	94.0000	0.2893	84.0000	0.2585	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 24224
+ZDPA RetranstimesSum 783
+PracSentPkt 167
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+117.0000	0.0000	5.4945	117.0000	0.3577	105.0000	0.3210	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 52584
+ZDPA RetranstimesSum 745
+PracSentPkt 398
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+195.0000	2.0000	5.4607	193.0000	0.5938	141.0000	0.4338	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 78008
+ZDPA RetranstimesSum 737
+PracSentPkt 639
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+250.0000	1.0000	5.4928	249.0000	0.7616	162.0000	0.4955	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 107504
+ZDPA RetranstimesSum 883
+PracSentPkt 903
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+303.0000	0.0000	5.4920	303.0000	0.9269	167.0000	0.5109	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 167368
+ZDPA RetranstimesSum 1010
+PracSentPkt 1451
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+394.0000	1.0000	5.4752	393.0000	1.2059	155.0000	0.4756	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 142784
+ZDPA RetranstimesSum 1289
+PracSentPkt 1228
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+349.0000	0.0000	5.4979	349.0000	1.0664	164.0000	0.5011	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 209392
+ZDPA RetranstimesSum 926
+PracSentPkt 1867
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+423.0000	0.0000	5.4333	423.0000	1.3079	144.0000	0.4453	
+

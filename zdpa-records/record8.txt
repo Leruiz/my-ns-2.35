@@ -1,0 +1,37 @@
+test 8, pkt lenght = 168 bits num_nodes = 200 poisson rate = 10Mb poisson idle time = 2s
+k = 4, r = 1, p = 0.75
+Practical sent bits 323843
+finish time =  9.9811	sent_pkts =  260.0000	offered traffic load =  0.4853		success_pkts =  65.0000	throughput=  0.1213		
+
+k = 6, r = 1, p = 0.75
+Practical sent bits 477831
+finish time =  9.9835	sent_pkts =  225.0000	offered traffic load =  0.4200		success_pkts =  27.0000	throughput=  0.0504		
+
+k = 8, r = 1, p = 0.75
+Practical sent bits 607814
+finish time =  9.9665	sent_pkts =  215.0000	offered traffic load =  0.4013		success_pkts =  16.0000	throughput=  0.0299		
+
+k = 6, r = 0.25, p = 0.75
+Practical sent bits 391188
+finish time =  9.9974	sent_pkts =  344.0000	offered traffic load =  0.6421		success_pkts =  146.0000	throughput=  0.2725		
+
+k = 6, r = 0.5, p = 0.75
+Practical sent bits 423864
+finish time =  9.9957	sent_pkts =  265.0000	offered traffic load =  0.4947		success_pkts =  70.0000	throughput=  0.1307		
+
+k = 6, r = 0.75, p = 0.75
+Practical sent bits 456666
+finish time =  9.9990	sent_pkts =  229.0000	offered traffic load =  0.4275		success_pkts =  32.0000	throughput=  0.0597		
+
+k = 6, r = 0.5, p = 0
+Practical sent bits 255024
+finish time =  9.9957	sent_pkts =  364.0000	offered traffic load =  0.6795		success_pkts =  175.0000	throughput=  0.3267		
+
+k = 6, r = 0.5, p = 0.25
+Practical sent bits 310380
+finish time =  9.9943	sent_pkts =  328.0000	offered traffic load =  0.6123		success_pkts =  136.0000	throughput=  0.2539		
+
+k = 6, r = 0.5, p = 0.5
+Practical sent bits 368676
+finish time =  9.9984	sent_pkts =  288.0000	offered traffic load =  0.5376		success_pkts =  95.0000	throughput=  0.1773		
+

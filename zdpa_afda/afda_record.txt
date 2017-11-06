@@ -1,0 +1,57 @@
+AFDA
+num_node = 100  idle_time = 6
+Practical sent bits 19320
+AFDA RetranstimesSum 170
+PracSentPkt 95
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+81.0000	0.0000	5.4532	81.0000	0.2495	47.0000	0.1448	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 17304
+AFDA RetranstimesSum 184
+PracSentPkt 90
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+79.0000	2.0000	5.3530	77.0000	0.2417	50.0000	0.1569	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 33600
+AFDA RetranstimesSum 115
+PracSentPkt 159
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+124.0000	0.0000	5.4395	124.0000	0.3830	50.0000	0.1544	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 48384
+AFDA RetranstimesSum 92
+PracSentPkt 227
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+169.0000	1.0000	5.4723	168.0000	0.5158	47.0000	0.1443	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 59808
+AFDA RetranstimesSum 123
+PracSentPkt 284
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+214.0000	1.0000	5.4348	213.0000	0.6584	51.0000	0.1577	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 93072
+AFDA RetranstimesSum 65
+PracSentPkt 421
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+293.0000	1.0000	5.4070	292.0000	0.9073	37.0000	0.1150	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 79800
+AFDA RetranstimesSum 79
+PracSentPkt 353
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+234.0000	0.0000	5.4995	234.0000	0.7148	44.0000	0.1344	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 119952
+AFDA RetranstimesSum 51
+PracSentPkt 515
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+323.0000	0.0000	5.4706	323.0000	0.9919	33.0000	0.1013	
+

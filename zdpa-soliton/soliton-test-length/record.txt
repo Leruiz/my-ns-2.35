@@ -1,0 +1,17 @@
+test1 Soliton k = 6, p = 0.5
+num_node = 100  idle_time = 6
+SOlitonAveLen 53
+num_node = 50  idle_time = 2.5
+SOlitonAveLen 50
+num_node = 100  idle_time = 2.5
+SOlitonAveLen 40
+num_node = 150  idle_time = 2.5
+SOlitonAveLen 48
+num_node = 200  idle_time = 2.5
+SOlitonAveLen 46
+num_node = 300  idle_time = 2.5
+SOlitonAveLen 46
+num_node = 200  idle_time = 1.5
+SOlitonAveLen 46
+num_node = 300  idle_time = 1.5
+SOlitonAveLen 46

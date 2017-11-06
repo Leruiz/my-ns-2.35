@@ -1,0 +1,44 @@
+test1 Construction k = 4, r = 0.5, p = 0.25
+num_node = 100  idle_time = 6
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 50  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 100  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 150  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+test1 Construction k = 4, r = 0.5, p = 0.25
+num_node = 100  idle_time = 6
+Practical sent bits 18312
+pkt class 1 = 5996
+pkt class 2 = 5593
+SB class 1 = 1005445
+SB class 2 = 997727
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	0.0000	5.4963	94.0000	0.2873	81.0000	0.2476	
+
+num_node = 50  idle_time = 2.5

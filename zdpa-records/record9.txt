@@ -1,0 +1,10 @@
+test 9, pkt lenght = 168 bits num_nodes = 300 poisson rate = 10Mb poisson idle time = 2s
+k = 4, r = 1, p = 0.75
+Practical sent bits 497969
+finish time =  9.9882	sent_pkts =  319.0000	offered traffic load =  0.5955		success_pkts =  22.0000	throughput=  0.0411		
+
+k = 6, r = 1, p = 0.75
+Practical sent bits 746537
+finish time =  9.9973	sent_pkts =  306.0000	offered traffic load =  0.5712		success_pkts =  8.0000	throughput=  0.0149		
+
+k = 8, r = 1, p = 0.75

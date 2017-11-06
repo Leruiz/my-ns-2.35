@@ -1,0 +1,147 @@
+Random k = 6,  p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 22344
+SB Decoded 14952
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+101.0000	3.0000	5.4329	98.0000	0.3030	88.0000	0.2721	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 23632
+SB Decoded 16800
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+110.0000	1.0000	5.4945	109.0000	0.3333	99.0000	0.3027	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 61024
+SB Decoded 27888
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+206.0000	0.0000	5.4962	206.0000	0.6297	164.0000	0.5013	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 109480
+SB Decoded 27888
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+258.0000	0.0000	5.4658	258.0000	0.7930	164.0000	0.5041	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 143952
+SB Decoded 27888
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+308.0000	0.0000	5.4998	308.0000	0.9408	165.0000	0.5040	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 239800
+SB Decoded 25872
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+399.0000	2.0000	5.4507	397.0000	1.2236	151.0000	0.4654	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 189664
+SB Decoded 30072
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+362.0000	3.0000	5.4670	359.0000	1.1032	175.0000	0.5378	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 292144
+SB Decoded 27888
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+Regular k = 6,  r = 0.25 p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 18858
+SB Decoded 1281002
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+100.0000	2.0000	5.4202	98.0000	0.3038	89.0000	0.2759	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 20916
+SB Decoded 667029
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+106.0000	0.0000	5.4970	106.0000	0.3240	98.0000	0.2995	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 53088
+SB Decoded 2679979
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+196.0000	0.0000	5.4761	196.0000	0.6013	160.0000	0.4909	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 105294
+SB Decoded 2410862
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+280.0000	0.0000	5.4826	280.0000	0.8580	180.0000	0.5516	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 142464
+SB Decoded 1801641
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+313.0000	1.0000	5.4932	312.0000	0.9542	163.0000	0.4985	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 230496
+SB Decoded 712881
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+393.0000	0.0000	5.4972	393.0000	1.2010	146.0000	0.4462	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 192444
+SB Decoded 609652
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+339.0000	1.0000	5.4787	338.0000	1.0365	153.0000	0.4692	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 284718
+SB Decoded 287025
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+405.0000	2.0000	5.4717	403.0000	1.2373	116.0000	0.3562	
+
+Regular k = 6,  r = 0.5 p = 0.5
+num_node = 100  idle_time = 6
+Practical sent bits 19068
+SB Decoded 1290162
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	2.0000	5.4202	92.0000	0.2852	85.0000	0.2635	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 21672
+SB Decoded 667155
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+106.0000	0.0000	5.4970	106.0000	0.3240	98.0000	0.2995	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 66948
+SB Decoded 2685461
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+184.0000	0.0000	5.4962	184.0000	0.5624	137.0000	0.4188	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 124320
+SB Decoded 2472133
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+233.0000	0.0000	5.4651	233.0000	0.7163	119.0000	0.3658	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 179004
+SB Decoded 1931591
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+244.0000	1.0000	5.3500	243.0000	0.7631	79.0000	0.2481	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 281484
+SB Decoded 801074
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+301.0000	11.0000	4.5706	290.0000	1.0659	34.0000	0.1250	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 228144
+SB Decoded 729339
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+248.0000	1.0000	5.4153	247.0000	0.7663	50.0000	0.1551	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 343896
+SB Decoded 304148
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+318.0000	0.0000	5.4100	318.0000	0.9875	23.0000	0.0714	
+
