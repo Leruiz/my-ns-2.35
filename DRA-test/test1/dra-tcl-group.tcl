@@ -113,24 +113,16 @@ $satrouteobject_ compute_routes
 $ns at 6.5 "finish"
 
 proc finish {} {
-	set f [open zdpa-trunc/zdpa-records/record1.txt a]
+
+set f [open DRA-test/test1/record1.txt a]
 set pracotl [new PracOfferedTrafficLoad] 
 set pracload [$pracotl returnPracLoad]
-puts $pracload
-
-set sboneotl [new SBNumClassOne]
-set sbone [$sboneotl returnSBNumClassOne]
-set pktone [$sboneotl returnPktNumClassOne]
-
-set sbtwootl [new SBNumClassTwo]
-set sbtwo [$sbtwootl returnSBNumClassTwo] 
-set pkttwo [$sbtwootl returnPktNumClassTwo]
-
-puts $f "Practical sent bits $pracload" 
-puts $f "pkt class 1 = $pktone"
-puts $f "pkt class 2 = $pkttwo"
-puts $f "SB class 1 = $sbone"
-puts $f "SB class 2 = $sbtwo"
+set retranstimeotl [new RetransTimes]
+set retranstime [$retranstimeotl returnRetransTimeSum]
+set pracsentpkt [$retranstimeotl returnPracSentPkt]
+puts $f "Practical sent bits $pracload"
+puts $f "DRA RetranstimesSum $retranstime" 
+puts $f "PracSentPkt $pracsentpkt"
 
 close $f
 	global ns outfile 
