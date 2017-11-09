@@ -282,7 +282,11 @@ OBJ_CC = \
 	mdart/mdart_neighbor.o mdart/mdart_queue.o mdart/mdart_table.o \
 	mdart/mdart.o \
 	common/ns-process.o \
-	 satellite/satgeometry.o satellite/sathandoff.o \
+	satellite/satgeometry.o satellite/sathandoff.o \
+	satellite/satlink.o satellite/satnode.o satellite/ZDPA.o satellite/AFDA.o satellite/CRDSA.o satellite/PureAloha.o satellite/PracOfferedTrafficLoad.o satellite/SBNumClassOne.o \
+        satellite/SBNumClassTwo.o satellite/SolitonAveLen.o satellite/RetransTimes.o \
+        satellite/satposition.o satellite/satroute.o \
+        satellite/sattrace.o \
         satellite/satlink.o satellite/satnode.o satellite/ZDPA.o satellite/AFDA.o satellite/CRDSA.o satellite/PureAloha.o satellite/PracOfferedTrafficLoad.o satellite/SBNumClassOne.o \
         satellite/SBNumClassTwo.o satellite/SolitonAveLen.o satellite/RetransTimes.o \
         satellite/satposition.o satellite/satroute.o \

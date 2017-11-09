@@ -264,7 +264,7 @@ ZDPA::~ZDPA(){
 }
 int ZDPA::randomInternalDelay()
 {
-	return (int)((Random::uniform() *  (windowt/2) ) % (windowt/2);
+	return ((int)(Random::uniform() *  (windowt/2) ) ) % (windowt/2);
 }
 void ZDPA::insertPacket(Packet* p,unsigned int bit_slot)
 {
@@ -566,7 +566,7 @@ void ZDPA::sendDown(Packet* p)
 			retrans_interval = send_timeout_ + randomInternalDelay();
 		}else
 			retrans_interval = send_timeout_;
-	else
+	}else
 		retrans_interval = (windowt / (k - 1)) * bit_duration;
 
 	// compute transmission delay:
