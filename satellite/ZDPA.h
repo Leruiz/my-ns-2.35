@@ -106,6 +106,8 @@
 		int k; //number of transmissions in a round
 		double prob; //probability of partial retransmitting 
 		double par_ratio; //ratio of partial packet
-		 int construction;// = 0: trunc; =1:random
+		 int construction;// = 0: trunc; =1:random; 2 = DRA
+
+		 int randomInternalDelay();
 };
 

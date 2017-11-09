@@ -1,3 +1,0 @@
-Practical sent bits 126168
-SBNumClassOne 2488730
-SBNumClassTwo 2394945
