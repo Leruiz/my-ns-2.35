@@ -1,0 +1,66 @@
+test1 k = 2
+num_node = 100  idle_time = 6
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 50  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 100  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 150  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+test1 k = 2
+num_node = 100  idle_time = 6
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 50  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 100  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 150  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 200  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
+num_node = 300  idle_time = 1.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+
