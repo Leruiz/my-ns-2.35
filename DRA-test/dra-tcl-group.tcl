@@ -11,7 +11,7 @@ set k_ [lindex $argv 1]
 set n_node_ [lindex $argv 2]
 set t_idle_ [lindex $argv 3]
 puts "Running test $test_ ..."
-
+puts "k=$k_"
 global ns
 set ns [new Simulator]
 
@@ -114,17 +114,14 @@ $ns at 6.5 "finish"
 
 proc finish {} {
 
-set f [open DRA-test/test1/record1.txt a]
 set pracotl [new PracOfferedTrafficLoad] 
 set pracload [$pracotl returnPracLoad]
 set retranstimeotl [new RetransTimes]
 set retranstime [$retranstimeotl returnRetransTimeSum]
 set pracsentpkt [$retranstimeotl returnPracSentPkt]
-puts $f "Practical sent bits $pracload"
-puts $f "DRA RetranstimesSum $retranstime" 
-puts $f "PracSentPkt $pracsentpkt"
-
-close $f
+puts  "Practical sent bits $pracload"
+puts  "DRA RetranstimesSum $retranstime" 
+puts  "PracSentPkt $pracsentpkt"
 	global ns outfile 
 	$ns flush-trace
 	close $outfile

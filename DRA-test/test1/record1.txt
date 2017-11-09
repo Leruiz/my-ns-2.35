@@ -1,66 +1,57 @@
 test1 k = 2
 num_node = 100  idle_time = 6
+Practical sent bits 16968
+DRA RetranstimesSum 609
+PracSentPkt 101
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+87.0000	2.0000	5.4202	85.0000	0.2635	66.0000	0.2046	
 
 num_node = 50  idle_time = 2.5
+Practical sent bits 18648
+DRA RetranstimesSum 393
+PracSentPkt 111
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+92.0000	0.0000	5.4953	92.0000	0.2813	76.0000	0.2323	
 
 num_node = 100  idle_time = 2.5
+Practical sent bits 39984
+DRA RetranstimesSum 383
+PracSentPkt 238
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+166.0000	0.0000	5.4942	166.0000	0.5076	104.0000	0.3180	
 
 num_node = 150  idle_time = 2.5
+Practical sent bits 57792
+DRA RetranstimesSum 278
+PracSentPkt 344
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+211.0000	2.0000	5.4112	209.0000	0.6489	102.0000	0.3167	
 
 num_node = 200  idle_time = 2.5
+Practical sent bits 75096
+DRA RetranstimesSum 309
+PracSentPkt 447
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+261.0000	0.0000	5.4721	261.0000	0.8013	105.0000	0.3224	
 
 num_node = 300  idle_time = 2.5
+Practical sent bits 110880
+DRA RetranstimesSum 308
+PracSentPkt 660
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+335.0000	0.0000	5.4952	335.0000	1.0242	81.0000	0.2476	
 
 num_node = 200  idle_time = 1.5
+Practical sent bits 93408
+DRA RetranstimesSum 320
+PracSentPkt 556
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+288.0000	0.0000	5.4768	288.0000	0.8834	98.0000	0.3006	
 
 num_node = 300  idle_time = 1.5
+Practical sent bits 134568
+DRA RetranstimesSum 175
+PracSentPkt 801
 sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-test1 k = 2
-num_node = 100  idle_time = 6
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 50  idle_time = 2.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 100  idle_time = 2.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 150  idle_time = 2.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 200  idle_time = 2.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 300  idle_time = 2.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 200  idle_time = 1.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
-
-num_node = 300  idle_time = 1.5
-sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
-448.0000	1.0000	5.4446	447.0000	1.3793	159.0000	0.4906	
+368.0000	1.0000	5.4708	367.0000	1.1270	78.0000	0.2395	
 
