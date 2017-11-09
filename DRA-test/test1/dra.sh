@@ -9,7 +9,7 @@ filtcll="DRA-test/test1/dra-tcl-group.tcl"
 
 echo "test1 k = 2" >> $fil
 
-k = 2
+k=2
 
 echo "num_node = 100  idle_time = 6" >> $fil
 ns $filtcll poisson  $k  100 6
