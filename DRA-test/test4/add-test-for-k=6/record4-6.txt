@@ -1,0 +1,59 @@
+the C++ code of setting random interval has been modified
+test4 packet length = 150， windowt = 40000  (doubled)
+-----------------k = 6-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 16050
+DRA RetranstimesSum 427
+PracSentPkt 107
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+89.0000	3.0000	5.4184	86.0000	0.2666	78.0000	0.2418	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 18900
+DRA RetranstimesSum 485
+PracSentPkt 126
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+96.0000	2.0000	5.4387	94.0000	0.2904	81.0000	0.2502	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 45300
+DRA RetranstimesSum 510
+PracSentPkt 302
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+180.0000	1.0000	5.4451	179.0000	0.5523	119.0000	0.3672	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 68100
+DRA RetranstimesSum 469
+PracSentPkt 454
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+232.0000	0.0000	5.4938	232.0000	0.7095	127.0000	0.3884	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 91800
+DRA RetranstimesSum 401
+PracSentPkt 612
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+268.0000	1.0000	5.4605	267.0000	0.8215	112.0000	0.3446	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 142650
+DRA RetranstimesSum 268
+PracSentPkt 951
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+324.0000	3.0000	5.2251	321.0000	1.0321	69.0000	0.2219	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 118350
+DRA RetranstimesSum 509
+PracSentPkt 789
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+288.0000	0.0000	5.4764	288.0000	0.8835	96.0000	0.2945	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 175800
+DRA RetranstimesSum 152
+PracSentPkt 1172
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+338.0000	1.0000	5.2213	337.0000	1.0843	42.0000	0.1351	
+
