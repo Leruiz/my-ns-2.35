@@ -16,7 +16,17 @@ int RetransTimes::command(int argc, const char* const* argv)
 	if (strcmp(argv[1], "returnRetransTimeSum") == 0)
 	{
 		tcl.resultf("%d",success_retrans_times_sum_);
-	}else if(strcmp(argv[1], "returnPracSentPkt") == 0)
+
+	}else if(strcmp(argv[1], "returnAveRetransTimes") == 0)
+	{
+		if(success_pkt_num_ * k_ > 0)
+			ave_retrans_times_ = success_retrans_times_sum_ / (success_pkt_num_ * k_);
+		else
+			ave_retrans_times_ = 0;
+
+		tcl.resultf("%d", ave_retrans_times_);
+
+	}	else if(strcmp(argv[1], "returnPracSentPkt") == 0)
 	{
 		tcl.resultf("%d", prac_sent_pkt_);
 	}
@@ -25,5 +35,9 @@ int RetransTimes::command(int argc, const char* const* argv)
 
 
 int RetransTimes:: success_retrans_times_sum_ = 0;
+int RetransTimes::success_pkt_num_ = 0;
+int RetransTimes::ave_retrans_times_ = 0;
+int RetransTimes::k_ = 1;
 int RetransTimes::prac_sent_pkt_ = 0;
+
 
