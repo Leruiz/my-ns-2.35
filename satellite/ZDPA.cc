@@ -468,8 +468,10 @@ void ZDPA::send_timer()
 			if(Random::uniform()<1-prob){//
 				if(construction == 0) // truncated
 						snd_pkt_->halfRetrans(par_ratio);
-					else if(construction == 1) //soliton
+				else if(construction == 1) //soliton
 						snd_pkt_ -> ParSoliton();
+				else if(construction == 2) //DRA
+					snd_pkt_->fullRetrans();
 			}
 		}else{
 			snd_pkt_->originRetrans();
