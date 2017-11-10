@@ -262,10 +262,7 @@ ZDPA::~ZDPA(){
 		(*iter).second = NULL;
 	}
 }
-int ZDPA::randomInternalDelay()
-{
-	return ((int)(Random::uniform() *  (windowt/2) ) ) % (windowt/2);
-}
+
 void ZDPA::insertPacket(Packet* p,unsigned int bit_slot)
 {
 	//int* tmp = p -> getRep();
@@ -561,13 +558,19 @@ void ZDPA::sendDown(Packet* p)
 	double retrans_interval;
 	if(p-> getRetansCounter() > k)
 	{
-		if(construction == 2) // DRA
-		{
-			retrans_interval = send_timeout_ + randomInternalDelay();
-		}else
-			retrans_interval = send_timeout_;
+		// exceed the maximal retransmission times
+		retrans_interval = send_timeout_;
 	}else
-		retrans_interval = (windowt / (k - 1)) * bit_duration;
+	{
+		if(construction == 2)
+		{
+			//DRA protocol
+			int interval = windowt / (k - 1);
+			int random_interval = ((int)(Random::uniform() * interval)) % interval;
+			retrans_interval = (interval + random_interval) * bit_duration;
+		}else
+			retrans_interval = (windowt / (k - 1)) * bit_duration;
+	}
 
 	// compute transmission delay:
 	int packetsize_ = HDR_CMN(p)->size() + LINK_HDRSIZE;
