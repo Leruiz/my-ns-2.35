@@ -27,8 +27,6 @@ int RetransTimes::command(int argc, const char* const* argv)
 
 int RetransTimes:: success_retrans_times_sum_ = 0;
 int RetransTimes::success_pkt_num_ = 0;
-double RetransTimes::ave_retrans_times_ = 0;
-int RetransTimes::k_ = 1;
 int RetransTimes::prac_sent_pkt_ = 0;
 
 
