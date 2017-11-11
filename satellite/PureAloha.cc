@@ -77,7 +77,7 @@ PureAloha::PureAloha() : SatMac(), tx_state_(MAC_IDLE),
 void PureAloha::send_timer()
 {
 	hdr_cmn* ch=hdr_cmn::access(snd_pkt_);
-	cout<<"In send_timer   index_: "<<index_<<"  pkt uid_: "<<ch->uid_<<"  Now: "<<NOW<<endl;
+	//cout<<"In send_timer   index_: "<<index_<<"  pkt uid_: "<<ch->uid_<<"  Now: "<<NOW<<endl;
 	switch (tx_state_) {
 	
 	case MAC_SEND:
@@ -158,7 +158,7 @@ void PureAloha::sendDown(Packet* p)
 {
 	if(p->getRetansCounter()==0){
 		hdr_cmn* ch=hdr_cmn::access(p);
-		cout<<"index_: "<<index_<<"  pkt uid_: "<<ch->uid_<<"  Now: "<<NOW<<endl;
+		//cout<<"index_: "<<index_<<"  pkt uid_: "<<ch->uid_<<"  Now: "<<NOW<<endl;
 	}
 	double txt;
 	
@@ -174,7 +174,7 @@ void PureAloha::sendDown(Packet* p)
 	snd_pkt_ = p->copy();  // save a copy in case it gets retransmitted
 	snd_pkt_->refcopy();
 	num_ref++;
-	cout<<"num_ref="<<num_ref<<endl;
+	//cout<<"num_ref="<<num_ref<<endl;
 
 	downtarget_->recv(p, this);
 
