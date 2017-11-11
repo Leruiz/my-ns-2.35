@@ -1,0 +1,327 @@
+the C++ code of setting random interval has been modified
+test5 packet length = 150， windowt = 40000  (doubled)
+-----------------k = 2-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 13350
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 89
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+86.0000	0.0000	5.4356	86.0000	0.2658	62.0000	0.1916	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 13050
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 87
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+84.0000	0.0000	5.4927	84.0000	0.2569	63.0000	0.1927	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 22800
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 152
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+148.0000	0.0000	5.4924	148.0000	0.4527	88.0000	0.2692	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 32550
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 217
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+212.0000	0.0000	5.4921	212.0000	0.6485	111.0000	0.3395	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 40500
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 270
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+263.0000	0.0000	5.4920	263.0000	0.8045	124.0000	0.3793	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 55650
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 371
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+347.0000	0.0000	5.4920	347.0000	1.0615	116.0000	0.3548	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 47100
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 314
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+297.0000	1.0000	5.4951	296.0000	0.9050	121.0000	0.3699	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 63750
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 425
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+392.0000	2.0000	5.4875	390.0000	1.1940	112.0000	0.3429	
+
+-----------------k = 3-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 15150
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 101
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+92.0000	1.0000	5.4743	91.0000	0.2793	77.0000	0.2363	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 16050
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 107
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+92.0000	0.0000	5.4927	92.0000	0.2814	73.0000	0.2233	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 30750
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 205
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+168.0000	0.0000	5.4924	168.0000	0.5139	110.0000	0.3365	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 44400
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 296
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+229.0000	0.0000	5.4770	229.0000	0.7024	128.0000	0.3926	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 56550
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 377
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+275.0000	0.0000	5.4920	275.0000	0.8412	131.0000	0.4007	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 80850
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 539
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+360.0000	1.0000	5.4449	359.0000	1.1077	115.0000	0.3548	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 67200
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 448
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+313.0000	0.0000	5.4501	313.0000	0.9648	126.0000	0.3884	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 96000
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 640
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+396.0000	1.0000	5.4728	395.0000	1.2125	107.0000	0.3285	
+
+-----------------k = 4-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 15600
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 104
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+91.0000	0.0000	5.4872	91.0000	0.2786	75.0000	0.2296	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 16800
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 112
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+94.0000	0.0000	5.4957	94.0000	0.2874	77.0000	0.2354	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 37650
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 251
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+181.0000	1.0000	5.4716	180.0000	0.5527	122.0000	0.3746	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 52650
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 351
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+230.0000	0.0000	5.4963	230.0000	0.7030	120.0000	0.3668	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 68100
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 454
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+280.0000	0.0000	5.4486	280.0000	0.8633	133.0000	0.4101	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 100500
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 670
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+348.0000	0.0000	5.4936	348.0000	1.0642	103.0000	0.3150	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 82800
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 552
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+304.0000	1.0000	5.4506	303.0000	0.9339	122.0000	0.3760	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 124200
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 828
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+376.0000	0.0000	5.4549	376.0000	1.1580	82.0000	0.2525	
+
+-----------------k = 5-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 16050
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 107
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+89.0000	3.0000	5.4181	86.0000	0.2667	77.0000	0.2388	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 18450
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 123
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+97.0000	0.0000	5.4927	97.0000	0.2967	82.0000	0.2508	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 43050
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 287
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+178.0000	1.0000	5.4593	177.0000	0.5447	118.0000	0.3631	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 62700
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 418
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+230.0000	0.0000	5.4963	230.0000	0.7030	117.0000	0.3576	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 77850
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 519
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+267.0000	0.0000	5.4778	267.0000	0.8189	116.0000	0.3558	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 123300
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 822
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+339.0000	0.0000	5.4421	339.0000	1.0465	87.0000	0.2686	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 100500
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 670
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+299.0000	1.0000	5.4230	298.0000	0.9232	110.0000	0.3408	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 148500
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 990
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+357.0000	0.0000	5.3927	357.0000	1.1122	65.0000	0.2025	
+
+-----------------k = 6-----------------
+num_node = 100  idle_time = 6
+Practical sent bits 16050
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 107
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+89.0000	3.0000	5.4184	86.0000	0.2666	78.0000	0.2418	
+
+num_node = 50  idle_time = 2.5
+Practical sent bits 18900
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 126
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+96.0000	2.0000	5.4387	94.0000	0.2904	81.0000	0.2502	
+
+num_node = 100  idle_time = 2.5
+Practical sent bits 45300
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 302
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+180.0000	1.0000	5.4451	179.0000	0.5523	119.0000	0.3672	
+
+num_node = 150  idle_time = 2.5
+Practical sent bits 68100
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 454
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+232.0000	0.0000	5.4938	232.0000	0.7095	127.0000	0.3884	
+
+num_node = 200  idle_time = 2.5
+Practical sent bits 91800
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 612
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+268.0000	1.0000	5.4605	267.0000	0.8215	112.0000	0.3446	
+
+num_node = 300  idle_time = 2.5
+Practical sent bits 142650
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 951
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+324.0000	3.0000	5.2251	321.0000	1.0321	69.0000	0.2219	
+
+num_node = 200  idle_time = 1.5
+Practical sent bits 118350
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 789
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+288.0000	0.0000	5.4764	288.0000	0.8835	96.0000	0.2945	
+
+num_node = 300  idle_time = 1.5
+Practical sent bits 175800
+DRA RetranstimesSum 0
+DRA AveRetranstimes 
+PracSentPkt 1172
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+338.0000	1.0000	5.2213	337.0000	1.0843	42.0000	0.1351	
+
