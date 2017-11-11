@@ -528,10 +528,10 @@ public:
 	//Replica* rep;
 
 //*************************************************************************************
-	Packet() : bits_(0), data_(0), ref_count_(0), next_(0), //dcsize(150),
+	Packet() : bits_(0), data_(0), ref_count_(0), next_(0), dcsize(168),
 			half_retrans_counter(0), re_dcsize(0),loca_stamp1(0),loca_stamp2(0),isfirst(true), retrans_(0)
 	{
-		dcsize = 80 + ((int)(Random::uniform() * 80)) % 80;//random packet length
+		//dcsize = 80 + ((int)(Random::uniform() * 80)) % 80;//random packet length
 		re_dcsize=dcsize;
 		//rep = new Replica (dcsize);
 		own_uid_ = uid_;
