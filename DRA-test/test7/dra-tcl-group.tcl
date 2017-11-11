@@ -26,7 +26,7 @@ set opt(chan)           Channel/Sat
 set opt(bw_up)		1Mb
 set opt(bw_down)	1Mb
 set opt(phy)            Phy/Sat
-set opt(mac)            Mac/Sat/UnslottedAloha
+set opt(mac)            Mac/Sat/PureAloha
 set opt(ifq)            Queue/DropTail
 set opt(qlim)		50
 set opt(ll)             LL/Sat
