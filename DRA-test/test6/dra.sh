@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 #test 6
 
 fil="DRA-test/test6/record6.txt"
@@ -8,7 +6,7 @@ filawk="DRA-test/throughput.awk"
 filtcll="DRA-test/test6/dra-tcl-group.tcl"
 
 echo "the C++ code of setting random interval has been modified" >> $fil
-echo "test5 random packet length， windowt = 40000  (doubled)" >> $fil
+echo "test6 random packet length， windowt = 40000  (doubled)" >> $fil
 echo "-----------------k = 2-----------------" >> $fil
 k=2
 
