@@ -16,23 +16,6 @@ global ns
 set ns [new Simulator]
 
 
-
-# Global configuration parameters for Aloha (also settable in ns-sat.tcl)
-Mac/Sat/ZDPA set mean_backoff_ 0.01s ; # mean exponential backoff time(s)
-Mac/Sat/ZDPA set rtx_limit_ 40; # max number of retrans. attempted 
-Mac/Sat/ZDPA set send_timeout_ 4000ms; # resend if send times out
-
-#Mac/Sat/ZDPA set half_retrans_max 3;
-Mac/Sat/ZDPA set construction 2; #DRA protocol
-Mac/Sat/ZDPA set k $k_;
-Mac/Sat/ZDPA set prob 1;
-Mac/Sat/ZDPA set par_ratio 1;
-Mac/Sat/ZDPA set bit_duration 0.1ms;
-Mac/Sat/ZDPA set windowt 40000 ;
-Mac/Sat/ZDPA set deltat 10000 ;
-Mac/Sat/ZDPA set decode_iter_max 5000;
-Mac/Sat/ZDPA set buffer_max 5000;
-
 if { $test_ == "basic"} {
 	Mac/Sat set trace_collisions_ false
 	Mac/Sat set trace_drops_ false
