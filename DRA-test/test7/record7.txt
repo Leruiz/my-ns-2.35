@@ -1,0 +1,27 @@
+the C++ code of setting random interval has been modified
+test7 aloha protocol
+num_node = 100  idle_time = 6
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+84.0000	79.0000	0.5816	5.0000	0.1444	4.0000	0.1155	
+
+num_node = 50  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+17.0000	1.0000	0.7525	16.0000	0.3572	12.0000	0.2679	
+
+num_node = 100  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+173.0000	157.0000	0.3837	16.0000	0.7005	4.0000	0.1751	
+
+num_node = 150  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+237.0000	213.0000	0.3825	24.0000	1.0541	5.0000	0.2196	
+
+num_node = 200  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+309.0000	279.0000	0.3825	30.0000	1.3176	7.0000	0.3075	
+
+num_node = 300  idle_time = 2.5
+sent_pkts	 sum_1	 stop time 	 offeredload 	 success_pkts 	 througput
+505.0000	454.0000	0.3829	51.0000	2.2377	12.0000	0.5265	
+
+num_node = 200  idle_time = 1.5
