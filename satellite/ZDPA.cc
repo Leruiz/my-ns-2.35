@@ -649,9 +649,9 @@ void ZDPA::end_of_contention(Packet* p)
 	 			SBNumClassOne::decosb_[p->own_uid_] = tv;
 	 		}
 
-/*
- * 			RetransTimes::success_retrans_times_sum_ += p->retrans_;
- */
+
+ 			RetransTimes::success_retrans_times_sum_ += p->retrans_;
+
 			Scheduler::instance().schedule(uptarget_, p, delay_);
 			succ_pkt_set_.insert(uid_);
 		}else{
